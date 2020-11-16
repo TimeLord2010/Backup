@@ -1,0 +1,7 @@
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Debug\Backup.exe.config
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Debug\Backup.exe
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Debug\Backup.pdb
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Debug\Backup.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Debug\Backup.exe
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Debug\Backup.pdb

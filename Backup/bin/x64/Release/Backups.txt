@@ -1,0 +1,3 @@
+C:\Users\{CurrentUser}\Documents\Visual Studio 2019\Projects
+C:\Users\{CurrentUser}\Documents\Languages
+C:\Users\{CurrentUser}\Documents\Trabalho

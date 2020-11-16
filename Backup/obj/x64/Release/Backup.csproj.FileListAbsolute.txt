@@ -1,0 +1,14 @@
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Release\Backup.exe.config
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Release\Backup.exe
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Release\Backup.pdb
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.csprojAssemblyReference.cache
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.csproj.CoreCompileInputs.cache
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.exe
+C:\Users\timel\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.pdb
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Release\Backup.exe.config
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Release\Backup.exe
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\bin\x64\Release\Backup.pdb
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.exe
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\Backup\Backup\obj\x64\Release\Backup.pdb
